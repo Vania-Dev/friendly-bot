@@ -1,0 +1,7 @@
+    langchain-community>=0.3.23
+    langchain>=0.3.24
+    ollama>=0.4.8
+    pytelegrambotapi>=4.26.0
+    langchain-ollama>=0.3.2
+    langgraph>=0.4.5
+    schedule>=1.2.2

@@ -1,0 +1,15 @@
+[project]
+name = "friendly-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=0.3.24",
+    "langchain-community>=0.3.23",
+    "langchain-ollama>=0.3.2",
+    "langgraph>=0.4.5",
+    "ollama>=0.4.8",
+    "pytelegrambotapi>=4.26.0",
+    "schedule>=1.2.2",
+]
